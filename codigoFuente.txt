@@ -2,3 +2,4 @@ Bienvenidos a git
 Renato Ramos
 
 - Resido en Lima - Zárate
+- Programador Java
